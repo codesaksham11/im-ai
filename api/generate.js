@@ -30,7 +30,7 @@ module.exports = async (req, res) => {
             body: JSON.stringify({
                 prompt: prompt,
                 // This is the generator name from the URL perchance.org/ai-nsfw-image-generator
-                generator: 'ai-nsfw-image-generator', 
+                generator: 'text-to-image-generator', 
                 output_type: 'image_b64' // Request image as Base64 text
             })
         });
