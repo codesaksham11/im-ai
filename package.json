@@ -1,0 +1,23 @@
+{
+  "name": "im-ai",
+  "version": "1.0.0",
+  "description": "some high school boy stuff",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codesaksham11/im-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codesaksham11/im-ai/issues"
+  },
+  "homepage": "https://github.com/codesaksham11/im-ai#readme",
+  "dependencies": {
+    "node-fetch": "^2.7.0"
+  }
+}

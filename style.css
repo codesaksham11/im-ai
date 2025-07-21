@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 2em;
+}
+input[type="text"] {
+    width: 400px;
+    padding: 8px;
+    margin-bottom: 1em;
+}
+#imageContainer {
+    margin-top: 2em;
+    min-height: 256px;
+    min-width: 256px;
+    border: 1px solid #ccc;
+}
+img {
+    max-width: 512px;
+    max-height: 512px;
+}
+.hidden {
+    display: none;
+}
